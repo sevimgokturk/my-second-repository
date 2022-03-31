@@ -6,7 +6,7 @@ public class FirstJavaClass {
         System.out.println(" git add .");
         System.out.println("git commit -m '.....'");
         System.out.println("git push");
-        Scanner scanner =new Scanner(System.in);
+
 
 
 
